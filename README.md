@@ -4,7 +4,4 @@
 
 # ekran görüntüsü
 
-# ![](basit.gif)
-# Html-Css-Basit-rnek
-# Html-Css-Basit-ornek
-# Html-Css-ornek
+# ![](basiit.gif)
